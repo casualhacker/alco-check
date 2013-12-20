@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5A7842D-9DE8-49D5-85FB-30A7027C9643</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Unit Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC64A5B7-A405-4A13-A98B-99B079DEF90F</key>
+		<string>https://github.com/casualhacker/alco-check.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Unit Calculator/Unit Calculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC64A5B7-A405-4A13-A98B-99B079DEF90F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/casualhacker/alco-check.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC64A5B7-A405-4A13-A98B-99B079DEF90F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC64A5B7-A405-4A13-A98B-99B079DEF90F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>alco-check</string>
+		</dict>
+	</array>
+</dict>
+</plist>
